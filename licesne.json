@@ -1,0 +1,17 @@
+[
+  {
+      "id_account": 1,
+      "license": "45db763cb7f521c6bd461728414378",
+      "expire_at": "2025-10-08"
+  },
+  {
+      "id_account": 1,
+      "license": "45db763cb7f521c6bd461728414379",
+      "expire_at": "2025-10-01"
+  },
+  {
+      "id_account": 1,
+      "license": "2f942b5227d98e4162191728432957",
+      "expire_at": "2025-10-08"
+  }
+]
